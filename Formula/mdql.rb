@@ -1,8 +1,8 @@
 class Mdql < Formula
   desc "A database where every entry is a markdown file"
   homepage "https://github.com/mdql-db/mdql"
-  url "https://github.com/mdql-db/mdql/archive/refs/tags/v0.5.11.tar.gz"
-  sha256 "d901b0d3323b77175df8d46385034db19577375398b66f96046a0d903d10df77"
+  url "https://github.com/mdql-db/mdql/archive/refs/tags/v0.5.12.tar.gz"
+  sha256 "752f73dba95b1624dc940fa79fb986d9c0171740852cf3342ac660625cef0f6a"
   license "AGPL-3.0-only"
 
   depends_on "rust" => :build
